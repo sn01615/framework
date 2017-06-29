@@ -1,13 +1,11 @@
 {
-    "name": "yanglong/framework",
-    "description": "cherry php framework",
-    "type": "library",
-    "license": "GPL-3.0",
-    "authors": [
-        {
-            "name": "YangLong",
-            "email": "168119405@qq.com"
-        }
-    ],
-    "require": {}
+	"name" : "cherry/framework",
+	"description" : "cherry php framework",
+	"type" : "library",
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "YangLong",
+			"email" : "168119405@qq.com"
+		}
+	]
 }
